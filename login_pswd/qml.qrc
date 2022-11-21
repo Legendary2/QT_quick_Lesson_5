@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>backend.js</file>
+        <file>LogInPage.qml</file>
+        <file>CButton.qml</file>
+    </qresource>
+</RCC>
